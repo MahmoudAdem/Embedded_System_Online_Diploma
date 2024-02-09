@@ -24,7 +24,7 @@
 
 # Assignment_5
 
-![Image](https://github.com/MahmoudAdem/Embedded_System_Online_Diploma/blob/main/C_Programming/1_C_Basics/Assignment_5.png)
+![Image](https://github.com/MahmoudAdem/Embedded_System_Online_Diploma/blob/main/C_Programming/2_Array_&_String/Assignment_5.png)
 
 ---
 
@@ -42,5 +42,5 @@
 
 # Assignment_8
 
-![Image](https://github.com/MahmoudAdem/Embedded_System_Online_Diploma/blob/main/C_Programming/1_C_Basics/Assignment_8.png)
+![Image](https://github.com/MahmoudAdem/Embedded_System_Online_Diploma/blob/main/C_Programming/2_Array_&_String/Assignment_8.png)
 
