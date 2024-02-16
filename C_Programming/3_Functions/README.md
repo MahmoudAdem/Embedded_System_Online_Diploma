@@ -12,7 +12,7 @@
 
 # Assignment_3
 
-![Image](https://github.com/MahmoudAdem/Embedded_System_Online_Diploma/blob/main/C_Programming/3_Functionsg/Assignment_3.png)
+![Image](https://github.com/MahmoudAdem/Embedded_System_Online_Diploma/blob/main/C_Programming/3_Functions/Assignment_3.png)
 
 ---
 
